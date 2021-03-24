@@ -7,7 +7,7 @@ body {
 }
 
 body {
-  background-image: url("beach.png");
+  background-image: url("../images/beach.png");
   background-repeat: repeating-radial-gradient(red, yellow 10%, green 20%);
 }
 
